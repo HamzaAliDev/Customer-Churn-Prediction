@@ -100,7 +100,7 @@ export default function Home() {
                 Start Prediction <ArrowRightIcon className="h-4 w-4" />
               </Link>
               <p className="text-sm text-slate-400">
-                Dark navy interface, immediate results, and retention-focused
+                Immediate results, and retention-focused
                 insights.
               </p>
             </div>
